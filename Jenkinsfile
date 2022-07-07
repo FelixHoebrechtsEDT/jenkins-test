@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'retrieve data from SCM'
+                echo 'hello world'
             }
         }
     }
